@@ -577,6 +577,12 @@ const RESOURCE_POWER = "power";
  * @constant
  * @type {string}
  */
+const RESOURCE_OPS = "ops";
+
+/**
+ * @constant
+ * @type {string}
+ */
 const RESOURCE_HYDROGEN = "H";
 
 /**
@@ -1123,7 +1129,8 @@ const RESOURCES_ALL = [
     RESOURCE_CATALYZED_ZYNTHIUM_ACID,
     RESOURCE_CATALYZED_ZYNTHIUM_ALKALIDE,
     RESOURCE_CATALYZED_GHODIUM_ACID,
-    RESOURCE_CATALYZED_GHODIUM_ALKALIDE
+    RESOURCE_CATALYZED_GHODIUM_ALKALIDE,
+    RESOURCE_OPS
 ];
 
 /**
